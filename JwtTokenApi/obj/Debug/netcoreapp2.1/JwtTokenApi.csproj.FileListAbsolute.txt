@@ -1,0 +1,14 @@
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\bin\Debug\netcoreapp2.1\JwtTokenApi.deps.json
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\bin\Debug\netcoreapp2.1\JwtTokenApi.runtimeconfig.json
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\bin\Debug\netcoreapp2.1\JwtTokenApi.runtimeconfig.dev.json
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\bin\Debug\netcoreapp2.1\JwtTokenApi.dll
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\bin\Debug\netcoreapp2.1\JwtTokenApi.pdb
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\obj\Debug\netcoreapp2.1\JwtTokenApi.csprojAssemblyReference.cache
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\obj\Debug\netcoreapp2.1\JwtTokenApi.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\obj\Debug\netcoreapp2.1\JwtTokenApi.RazorAssemblyInfo.cache
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\obj\Debug\netcoreapp2.1\JwtTokenApi.RazorAssemblyInfo.cs
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\obj\Debug\netcoreapp2.1\JwtTokenApi.AssemblyInfoInputs.cache
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\obj\Debug\netcoreapp2.1\JwtTokenApi.AssemblyInfo.cs
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\obj\Debug\netcoreapp2.1\JwtTokenApi.RazorTargetAssemblyInfo.cache
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\obj\Debug\netcoreapp2.1\JwtTokenApi.dll
+C:\Users\Berk\source\repos\JwtTokenApi\JwtTokenApi\obj\Debug\netcoreapp2.1\JwtTokenApi.pdb
