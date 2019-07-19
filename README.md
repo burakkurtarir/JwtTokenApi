@@ -1,7 +1,7 @@
 # JwtTokenApi
 .Net Core 2.1 Web Api Sample with Jwt Token
 
-.Net Core Web Api ve JWT(Json Web Token) kullanımını gösteren basit bir örnek.
+JWT(Json Web Token) kullanarak authorization ve authentication yapmayı öğreten basit bir örnek.
 
 Uygulamanın mantığı, üyelerin postlara ulaşması. Facebook, Instagram gibi uygulamalarda olduğu gibi üyeler web servisine
 istekte bulunup postları çekmek istiyor.(Bu uygulamada post bulunmamaktadır, sadece jwt ile web servislerine istek gönderme ve 
@@ -37,7 +37,8 @@ Sadece adminlerin cevap alabileceği servise user rolüyle istekte bulunursak al
 
 
 
-
+Yani kısaca, post servislerine erişebilmek için önce bir token yaratmamız gerekiyor. Bunun için gerekli servise istekte bulunup
+token'ımızı alıyoruz. Daha sonra post servislerine istekte bulunuyoruz. Eğer token'ın rolü user ise sadece user'lar için olan postları, eğer token'ın rolü admin ise sadece adminler için olan postları görebiliyoruz.
 
 
 
